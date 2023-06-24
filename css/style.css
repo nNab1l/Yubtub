@@ -67,4 +67,14 @@ textarea {
   width: 100%;
 }
 
+.yubtub__comments {
+  width: auto;
+}
+
+.yubtub__comment {
+  width: 100%;
+  height: 5rem;
+  background: white;
+}
+
 /*# sourceMappingURL=style.css.map */
